@@ -23,7 +23,7 @@ const contactInfo = [
   {
     icon: Mail,
     title: "Email",
-    content: "info@Vetrikfitness.com",
+    content: "info@gymtown.in",
   },
   {
     icon: Clock,
@@ -125,8 +125,7 @@ export function ContactSection() {
             <div className="bg-neutral-900 border border-neutral-800 rounded-xl p-6">
               <h4 className="text-white font-bold mb-2">Free Trial Available!</h4>
               <p className="text-neutral-400 text-sm">
-                Not sure if Vetrik Fitness is right for you? Sign up for a free 3-day trial and experience our facilities
-                firsthand.
+                Not sure if Gym Town is right for you? Sign up for a free 3-day trial and experience our facilities firsthand.
               </p>
             </div>
           </div>

@@ -8,21 +8,21 @@ const _geist = Geist({ subsets: ["latin"] })
 const _geistMono = Geist_Mono({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Vetrik Fitness | Transform Your Body & Mind",
+  title: "Gym Town | Transform Your Body & Mind",
   description:
-    "Vetrik Fitness is a premium fitness center offering 24/7 access, expert trainers, strength training, HIIT classes, CrossFit, and personalized programs to help you achieve your fitness goals.",
-  keywords: ["gym", "fitness", "workout", "personal training", "strength training", "HIIT", "CrossFit", "Vetrik Fitness"],
-  authors: [{ name: "Vetrik Fitness" }],
+    "Gym Town is a premium fitness center offering 24/7 access, expert trainers, strength training, HIIT classes, CrossFit, and personalized programs to help you achieve your fitness goals.",
+  keywords: ["gym", "fitness", "workout", "personal training", "strength training", "HIIT", "CrossFit", "Gym Town"],
+  authors: [{ name: "Gym Town" }],
   openGraph: {
-    title: "Vetrik Fitness | Transform Your Body & Mind",
+    title: "Gym Town | Transform Your Body & Mind",
     description: "Premium fitness center with 24/7 access, expert trainers, and world-class facilities.",
     type: "website",
     locale: "en_US",
-    siteName: "Vetrik Fitness",
+    siteName: "Gym Town",
   },
   twitter: {
     card: "summary_large_image",
-    title: "Vetrik Fitness | Transform Your Body & Mind",
+    title: "Gym Town | Transform Your Body & Mind",
     description: "Premium fitness center with 24/7 access, expert trainers, and world-class facilities.",
   },
   robots: {

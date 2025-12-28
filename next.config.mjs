@@ -7,8 +7,8 @@ const nextConfig = {
     unoptimized: true,
   },
   output: 'export',
-  assetPrefix: process.env.GITHUB_PAGES === 'true' ? '/vetrik-fitness/' : '',
-  basePath: process.env.GITHUB_PAGES === 'true' ? '/vetrik-fitness' : '',
+  assetPrefix: process.env.GITHUB_PAGES === 'true' ? '/gym-town/' : '',
+  basePath: process.env.GITHUB_PAGES === 'true' ? '/gym-town' : '',
 }
 
 export default nextConfig
